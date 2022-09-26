@@ -27,7 +27,7 @@ Gym-app is a Laravel project. A gym website, we made, is only as good as its abi
 
 ## Reason to use Laravel
 
-There are a variety of tools and frameworks available to you when building a web application. However, we believe Laravel is the best choice for building modern, full-stack web applications. That’s why we use Laravel. It is quite easy than another framework.
+There are a variety of tools and frameworks available to us when building a web application. However, we believe Laravel is the best choice for building modern, full-stack web applications. That’s why we use Laravel. It is quite easy than another framework.
 
 ## Documentation about Laravel
 
