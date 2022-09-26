@@ -1,6 +1,6 @@
 # Gym-Laravel
 
-This is project of Laravel
+This is project of Laravel.
 
 ## Short Introduction
 
