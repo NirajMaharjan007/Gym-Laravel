@@ -1,0 +1,19 @@
+.container {
+    padding: 40px 34px !important;
+}
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+    line-height: 1.5 !important;
+}
+
+footer {
+    height: fit-content;
+    max-height: 800px;
+}
